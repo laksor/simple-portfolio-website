@@ -3,8 +3,32 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-/* h1 style */
+/* h1 & span style */
 
 h1{
-    font-size: 30px;
+    font-size: 50px;
+}
+.span-orange-color {
+    color: orange;
+}
+/* header section style */
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+    height: 70%;
+}
+.anchor-button{
+    
+    text-decoration: none;
+    background-color: rgb(236, 100, 9);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 600;
 }
