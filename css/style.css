@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
+    margin: auto;
 }
 /* h1 & span style */
 
@@ -20,7 +21,7 @@ section{
     padding: 5%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
     height: 70%;
 }
 .anchor-button{
@@ -31,4 +32,8 @@ section{
     border-radius: 5px;
     padding: 10px 40px;
     font-weight: 600;
+}
+.top-banner{
+    background-image: url(/images/top-banner.png);
+    background-repeat: no-repeat;
 }
