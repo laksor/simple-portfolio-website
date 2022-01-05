@@ -15,7 +15,6 @@ h1{
 /* header section style */
 .container{
     display: flex;
-    margin-bottom:;
     padding: 40px;
     
 }
@@ -45,9 +44,6 @@ h1{
     background-image: url(/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-}
-.exp-area{
-
 }
 .shadow{
         width: 50%;
